@@ -1,0 +1,41 @@
+* {background-color: rgb(244, 238, 150)}
+
+.header {
+    color: 	#193375;
+    font-size: 250%
+}
+
+.header img {
+    width: 40%;
+    height: auto;
+    vertical-align: top;
+}
+
+.content {
+    border-style: solid;
+    border-color: darkgreen;
+    width: fit-content;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.snippet {
+    padding-bottom: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    
+}
+
+.snippet img {
+    width: 40%;
+}
+
+.team {
+    padding-left: 10px;
+}
+
+.goodPage {
+    padding-top: 15px;
+    font-size: x-large;
+}
